@@ -1,0 +1,1 @@
+{"max_height": 120, "img_size": 224, "backbone": "efficientnet_b0", "num_classes": 3}

@@ -1,0 +1,213 @@
+image_path,label,split,height_cm
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\06d90ad5-eb13-49aa-ae04-3a4a5454963d___RS_HL 0620.JPG,plant_healthy,train,56
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\0d615a38-cfa4-45e4-b1b4-9977220e19ca___RS_HL 9815.JPG,plant_healthy,train,80
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\1317fd49-1819-4065-b3a4-d74f9763c7c4___RS_HL 0252.JPG,plant_healthy,train,104
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\1ebf9add-aa7f-4a84-adbf-67f700f918bc___GH_HL Leaf 437.JPG,plant_healthy,train,104
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\22ebd26e-0388-4b07-8f48-bffb1680f350___RS_HL 9826.JPG,plant_healthy,train,73
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\2f9e1c60-06fc-41e9-af7d-a91c4a5e9f3d___GH_HL Leaf 504.1.JPG,plant_healthy,train,102
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\381a69d2-9a7d-40e2-adcb-9d7e362229e2___GH_HL Leaf 478.JPG,plant_healthy,train,108
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\45167988-3f78-4309-8ce2-633d7521847f___GH_HL Leaf 432.1.JPG,plant_healthy,train,66
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\4a077dcb-30be-4f8d-9dc9-00f3874b1676___GH_HL Leaf 465.JPG,plant_healthy,train,108
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\666598c7-f09e-4f8b-baf1-7d99e38de8c9___GH_HL Leaf 430.1.JPG,plant_healthy,train,99
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\688c6cc1-16b4-4f4a-9491-afba5c8a64b6___GH_HL Leaf 347.JPG,plant_healthy,train,63
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\6890c333-c7d2-4d50-8734-f70b61cef213___GH_HL Leaf 447.1.JPG,plant_healthy,train,80
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\6f5b57d9-46c8-41b6-9f79-eda044f687b1___RS_HL 9962.JPG,plant_healthy,train,63
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\709e6c14-61e3-4157-b371-f143ca5b1fda___GH_HL Leaf 256.JPG,plant_healthy,train,97
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\78c0dc05-0bac-43fd-81b5-b10b61f666cd___GH_HL Leaf 481.5.JPG,plant_healthy,train,106
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\7b953f3c-719f-4b0e-b62d-2c651eac6c18___RS_HL 0635.JPG,plant_healthy,train,31
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\7d76aa96-b29e-4a60-a3e7-bd489f5a79b2___GH_HL Leaf 176.3.JPG,plant_healthy,train,55
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\806a1f93-1b9f-4860-91e1-9aff2d68c494___RS_HL 0468.JPG,plant_healthy,train,35
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\83917dc9-aad9-4362-840e-24daab278519___RS_HL 0354.JPG,plant_healthy,train,41
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\9266e5f5-ab7a-461a-836d-fa03f1669a6a___RS_HL 9810.JPG,plant_healthy,train,81
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\9299f3e8-15ee-4cf2-997a-058bb19900a5___RS_HL 9781.JPG,plant_healthy,train,96
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\977bcf65-3e68-4be3-bb8a-4a860a6fef9d___RS_HL 9986.JPG,plant_healthy,train,98
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\982903ac-ec41-4bc3-8faf-c38a45d9b193___RS_HL 9960.JPG,plant_healthy,train,42
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\a20a5c58-38e3-4fe3-8bdb-1ce02169a6a3___RS_HL 0512.JPG,plant_healthy,train,113
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\a3ebf7f9-543d-4df9-a09f-013ef8dd7760___RS_HL 9662.JPG,plant_healthy,train,94
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\a6bd221d-9a81-4712-bfdb-9f529f422b37___RS_HL 0236.JPG,plant_healthy,train,72
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\ab19440f-0642-4dd8-820f-2f67d5abee98___RS_HL 0172.JPG,plant_healthy,train,41
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\acdf2283-0e7c-4ccd-8817-1019e3a8ed20___RS_HL 9943.JPG,plant_healthy,train,56
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\ae745e4a-eecc-40dd-b860-25bdee6729e3___GH_HL Leaf 417.2.JPG,plant_healthy,train,63
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\b089aa0a-1778-4c3d-ad5d-7997a9b97dbb___GH_HL Leaf 481.JPG,plant_healthy,train,54
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\b114c6fb-8ce0-4342-8e31-00ad83c1e1a5___RS_HL 0358.JPG,plant_healthy,train,101
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\b2e63ab4-09d6-4b43-8767-6ce042e080b5___RS_HL 0309.JPG,plant_healthy,train,62
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\b41196ab-88ea-4057-bf87-b1435d5a0d1d___GH_HL Leaf 258.1.JPG,plant_healthy,train,91
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\b8af2ce5-8429-4842-8ebc-c9d1ac9ed96f___GH_HL Leaf 301.JPG,plant_healthy,train,76
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\cbb3f283-baaa-40b1-9e46-3414d8f74f99___GH_HL Leaf 231.1.JPG,plant_healthy,train,118
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\e357a876-daff-428c-828f-7f1b6e998175___RS_HL 0593.JPG,plant_healthy,train,114
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\f0a9bd86-99c9-45d9-afe1-ca6cf6bbcdd6___RS_HL 9722.JPG,plant_healthy,train,49
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\f3231f5f-c6cf-4a37-a3da-5d6e7a8afb0e___RS_HL 0450.JPG,plant_healthy,train,47
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\f5252d99-6752-457b-b430-965d545d3b41___RS_HL 0412.JPG,plant_healthy,train,63
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_healthy\fad6841f-6194-4cf4-8101-b42206bd476c___RS_HL 0411.JPG,plant_healthy,train,62
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\0286577f-36c8-4b0d-bbf5-404993cd089d___Matt.S_CG 1422.JPG,plant_unhealthy,train,114
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\06f654df-cf43-4fd6-b30f-78425136bc35___GHLB2 Leaf 86.2.JPG,plant_unhealthy,train,98
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\0736fe9f-bd15-4a85-ab6e-2b570b10f377___GHLB2 Leaf 64.1.JPG,plant_unhealthy,train,44
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\081d1e25-3f06-46a1-95ef-d10a62faa80f___GHLB2 Leaf 8600.JPG,plant_unhealthy,train,52
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\08cdd6ec-9dd7-4fc2-a255-11a70adaffd4___Crnl_L.Mold 9177.JPG,plant_unhealthy,train,37
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\09d2deda-7403-489f-b723-5ae5e00e2311___GHLB2 Leaf 8756.JPG,plant_unhealthy,train,45
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\0a146952-538a-41e5-a422-b5d50e91771e___Matt.S_CG 6079.JPG,plant_unhealthy,train,113
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\0a25f893-1b5f-4845-baa1-f68ac03d96ac___Matt.S_CG 7863.JPG,plant_unhealthy,train,72
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\0a555f63-bf03-4958-8993-e1932b8dce9f___Crnl_L.Mold 9064.JPG,plant_unhealthy,train,79
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\0db67be3-f733-4d15-b7d9-5d075b2cafc7___RS_Erly.B 6401.JPG,plant_unhealthy,train,78
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\0ed7d5f6-9394-4ae7-87db-3de58f469263___GHLB2 Leaf 8732.JPG,plant_unhealthy,train,47
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\1061c5d5-6c61-40a6-b8e7-4cc735109f94___GCREC_Bact.Sp 3341.JPG,plant_unhealthy,train,47
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\10a46a0b-debe-49f9-8562-c7c81855160e___RS_Erly.B 6339.JPG,plant_unhealthy,train,99
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\127f2df5-4da2-40ef-ba65-91a732f2498e___GHLB_PS Leaf 40.1 Day 18.jpg,plant_unhealthy,train,41
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\167ce5ce-ef32-4544-a7aa-d05d315ef61a___Crnl_L.Mold 9113.JPG,plant_unhealthy,train,47
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\1692055a-2fc8-4680-b8fe-32916f040b6f___Crnl_L.Mold 6843.JPG,plant_unhealthy,train,104
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\1742dfdd-c687-46ff-b958-34194feb68e4___RS_Erly.B 7453.JPG,plant_unhealthy,train,69
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\1838f883-5e4b-4b24-bf4b-77d4a82f5f46___GCREC_Bact.Sp 6335.JPG,plant_unhealthy,train,95
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\1917515d-7e2f-479c-afec-95b4d3ae07e8___GCREC_Bact.Sp 5607.JPG,plant_unhealthy,train,68
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\2139cc43-0f52-4782-9966-059e4538b624___JR_Sept.L.S 2653.JPG,plant_unhealthy,train,38
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\2365ce1e-195c-4cf9-a38d-927f0faa489a___JR_Sept.L.S 2725.JPG,plant_unhealthy,train,43
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\2482cadb-d097-4091-8b10-099abca71a72___RS_Late.B 5078.JPG,plant_unhealthy,train,70
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\25fa2bdf-15e3-4330-8e54-1cbf6b714d3d___GHLB2 Leaf 133.JPG,plant_unhealthy,train,61
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\2622ba72-7a9b-4aa6-98c8-c35f2f186476___GCREC_Bact.Sp 5569.JPG,plant_unhealthy,train,74
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\29f85709-2e5c-41fe-a548-ca77f774a68b___Matt.S_CG 6163.JPG,plant_unhealthy,train,105
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\2ecf7371-b3e3-4206-be7c-5a8f3656be8a___Crnl_L.Mold 8921.JPG,plant_unhealthy,train,92
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\2f6eb969-db8b-48ae-954d-f716a61fce22___RS_Late.B 6555.JPG,plant_unhealthy,train,34
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\3256b07a-4561-45b8-b3d5-9422c0241c00___GCREC_Bact.Sp 3054.JPG,plant_unhealthy,train,94
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\325b9138-a030-4156-ae85-20de17e89f7e___RS_Erly.B 7807.JPG,plant_unhealthy,train,31
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\335da0b8-a52f-4a2a-8bce-cf98b53b2596___RS_Late.B 6220.JPG,plant_unhealthy,train,57
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\35b2e959-f967-4125-9465-eebfc5e7277b___Matt.S_CG 2710.JPG,plant_unhealthy,train,85
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\36ffef9d-4f3f-44df-bf6c-1636efcba224___Keller.St_CG 1812.JPG,plant_unhealthy,train,35
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\371929a8-17b8-4077-94f4-cfb6963d9285___UF.GRC_BS_Lab Leaf 8624.JPG,plant_unhealthy,train,49
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\3d41d2d9-7014-4409-a953-21227ef9d8e1___GCREC_Bact.Sp 3699.JPG,plant_unhealthy,train,41
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\3fdba933-d33b-45e3-877c-aaf869a83df4___Crnl_L.Mold 8952.JPG,plant_unhealthy,train,78
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\4193a3fe-d859-4354-b9e7-ec143f24ca01___JR_Sept.L.S 2579.JPG,plant_unhealthy,train,41
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\4467daac-1e75-4b6f-868d-9dcb5016bd1e___Matt.S_CG 7436.JPG,plant_unhealthy,train,99
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\45472e0c-7abb-48eb-aab6-8a1b612839eb___GHLB2 Leaf 8962.JPG,plant_unhealthy,train,63
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\4bc2b44a-865c-4006-aa3d-fbd4bd2de695___RS_Late.B 5123.JPG,plant_unhealthy,train,118
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\4e75a29c-0f14-4746-9d52-87d7f6c20b20___Crnl_L.Mold 6734.JPG,plant_unhealthy,train,30
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\4ec7e2e9-7fc3-46de-a42d-eec0cbcc990e___RS_Erly.B 7532.JPG,plant_unhealthy,train,76
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\50e1906e-24da-493d-88b0-3110e778a26a___Crnl_L.Mold 7135.JPG,plant_unhealthy,train,60
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\52b03992-9fe9-4829-bb4d-54f1b4b6a03e___GCREC_Bact.Sp 6194.JPG,plant_unhealthy,train,59
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\52db895b-cdf5-4f06-8da7-d24c5701be62___Matt.S_CG 2687.JPG,plant_unhealthy,train,68
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\531f8d45-f21f-4e5e-ad6f-0f4e64440b58___Keller.St_CG 1899.JPG,plant_unhealthy,train,53
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\5357b085-dcfe-4a9f-8e69-98b2481c8f7e___JR_Sept.L.S 8471.JPG,plant_unhealthy,train,55
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\5688ea99-c949-41d0-bbab-9cbf0ffb8bcd___GHLB2 Leaf 8677.JPG,plant_unhealthy,train,99
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\591ec786-c9bb-4054-be3a-055f0dbecbd2___RS_Erly.B 7416.JPG,plant_unhealthy,train,72
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\5ac465b8-86c9-469a-a656-add4ab1f14e4___RS_Erly.B 6473.JPG,plant_unhealthy,train,50
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\5af43679-cda7-4cdc-8d9f-e962e22e68c5___Crnl_L.Mold 8654.JPG,plant_unhealthy,train,32
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\605ce000-1122-45ae-8742-93a7de8c712c___RS_Erly.B 7627.JPG,plant_unhealthy,train,96
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\66c0dead-4a9f-4c5a-8c0a-4ed4eada7292___Crnl_L.Mold 8764.JPG,plant_unhealthy,train,86
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\6a63c776-470d-41a4-b94d-3b90dfd12f0e___GCREC_Bact.Sp 3505.JPG,plant_unhealthy,train,68
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\6b463262-379a-4694-affa-1030a9f4c087___GCREC_Bact.Sp 3366.JPG,plant_unhealthy,train,90
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\6fa4e32f-6cf3-48d7-9adb-b0282f3da27b___Matt.S_CG 7460.JPG,plant_unhealthy,train,30
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\736981e7-574c-4d75-b377-f56727bb6e49___GCREC_Bact.Sp 3240.JPG,plant_unhealthy,train,84
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\7868d41c-77db-4a0e-90e3-b4a90a17bfdc___RS_Late.B 5401.JPG,plant_unhealthy,train,49
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\7b8c983a-c159-4f79-86aa-13c8223155fd___RS_Late.B 5156.JPG,plant_unhealthy,train,61
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\7cf9cb31-1121-4ebe-b973-56c388d8f450___Crnl_L.Mold 6662.JPG,plant_unhealthy,train,98
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\7d40d29e-ba53-49bb-93be-e19d63855f60___Crnl_L.Mold 6994.JPG,plant_unhealthy,train,55
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\7dedb154-b3a3-4f5c-b529-9c44d4e3cd23___Matt.S_CG 7375.JPG,plant_unhealthy,train,59
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\7f3c64bd-1c01-4e6e-b794-6f9c2a5e2ba9___Crnl_L.Mold 6760.JPG,plant_unhealthy,train,96
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\804a100c-1ef1-4178-9c2f-7468bcb484f3___GHLB2 Leaf 88.JPG,plant_unhealthy,train,108
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\808fed44-acfc-492e-b295-9711805936b1___Crnl_L.Mold 8678.JPG,plant_unhealthy,train,65
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\815fb4d0-7902-45a2-a7c7-2ee400a2e25a___RS_Erly.B 7646.JPG,plant_unhealthy,train,112
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\85078c60-8c80-4e59-844c-351693a46cbe___Matt.S_CG 2736.JPG,plant_unhealthy,train,61
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\855bbef5-e9fc-4c0c-b3cc-d9321fa9596e___GCREC_Bact.Sp 5947.JPG,plant_unhealthy,train,73
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\87b0ae17-3c7a-462b-8d63-5ee04eb165d4___Crnl_L.Mold 9015.JPG,plant_unhealthy,train,44
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\87cfe0ca-e9cc-4a35-a01e-ffe71eab482c___GCREC_Bact.Sp 6133.JPG,plant_unhealthy,train,79
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\87e7e3be-acc9-45bf-a843-5528b1ec9484___Crnl_L.Mold 8924.JPG,plant_unhealthy,train,35
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\89226dd4-357b-4532-82d6-adeb7724e5e8___RS_Late.B 5387.JPG,plant_unhealthy,train,46
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\93608d6e-7511-4388-88c1-ef45b754e9c2___Crnl_L.Mold 6580.JPG,plant_unhealthy,train,61
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\9751ae34-d376-465d-9fce-ddb75caf98d2___GHLB2 Leaf 8781.JPG,plant_unhealthy,train,53
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\9846d408-3d13-490d-b9b1-4809f33c22ef___Crnl_L.Mold 6750.JPG,plant_unhealthy,train,40
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\9a49c63a-b86d-4815-a1d2-0800ec359f9f___UF.GRC_BS_Lab Leaf 0304.JPG,plant_unhealthy,train,105
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\9eec6625-b337-403b-b93c-e809f4e0b8c4___RS_Erly.B 7681.JPG,plant_unhealthy,train,61
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\a04e5c65-ae00-495e-b732-6c7030e32fc1___GCREC_Bact.Sp 2962.JPG,plant_unhealthy,train,35
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\a2b2c599-4cbf-4ea4-a05e-639ee9b4f523___Matt.S_CG 6059.JPG,plant_unhealthy,train,114
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\a3611dae-1359-41af-b506-0b012c37a451___RS_Erly.B 7368.JPG,plant_unhealthy,train,34
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\a37a63d6-d842-4049-b82b-f1d47c6f2f2c___Crnl_L.Mold 8646.JPG,plant_unhealthy,train,53
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\a45b192c-f31e-4ca1-bf4a-10ff1060e658___Matt.S_CG 7512.JPG,plant_unhealthy,train,54
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\a6d6640b-c086-44f5-a53f-8cb59f72a7b4___GCREC_Bact.Sp 5886.JPG,plant_unhealthy,train,82
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\a7efbe92-8d37-41c0-9af9-792e575f5894___Crnl_L.Mold 6900.JPG,plant_unhealthy,train,67
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\aacea726-d5bc-4764-92a9-afe05263a498___Crnl_L.Mold 7009.JPG,plant_unhealthy,train,117
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\af1e0a25-54f6-46de-bf77-666952e4bebc___Matt.S_CG 2604.JPG,plant_unhealthy,train,33
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\b0fc7984-f1bf-4d50-b495-0a363445158f___UF.GRC_BS_Lab Leaf 9102.JPG,plant_unhealthy,train,101
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\b383b96d-13d9-454a-a179-3093e48d8708___RS_Erly.B 7500.JPG,plant_unhealthy,train,55
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\b6f177f7-4475-4ee6-98cd-4123d7d6ac33___GHLB2ES Leaf 138.JPG,plant_unhealthy,train,69
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\b908a9aa-b8b9-46bd-aef0-9e8d1388608d___GCREC_Bact.Sp 3486.JPG,plant_unhealthy,train,106
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\bac5677d-59b4-4183-839f-24860287ed6a___RS_Erly.B 9503.JPG,plant_unhealthy,train,40
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\bb2586ff-9676-4100-89f7-200d9ce5ecd6___RS_Erly.B 9386.JPG,plant_unhealthy,train,32
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\bbe43e9e-f606-4881-9b3d-ff2dfc79738c___Matt.S_CG 6844.JPG,plant_unhealthy,train,88
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\bf7b77e1-6438-45ee-b226-cb69b745a4bc___Crnl_L.Mold 8756.JPG,plant_unhealthy,train,36
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\c2a64948-bda7-4a89-aec6-be714ba7cf99___RS_Erly.B 8330.JPG,plant_unhealthy,train,92
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\cdcc1a8c-7b80-4d56-a5b6-942f03928ea0___RS_Late.B 5233.JPG,plant_unhealthy,train,47
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\d41e78aa-0020-457b-a17d-736d426adad5___RS_Erly.B 7755.JPG,plant_unhealthy,train,64
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\d53bdcff-1ea7-46c7-9d46-701d104bf130___RS_Erly.B 8353.JPG,plant_unhealthy,train,65
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\d63639eb-4a20-4321-b8b6-38de563a1ee6___GHLB_PS Leaf 26.4 Day 13.jpg,plant_unhealthy,train,113
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\d6441d7c-be78-420d-b202-1298cd5b94e9___Crnl_L.Mold 6571.JPG,plant_unhealthy,train,30
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\d6a9f74c-1b76-4b09-860c-2a68fb605c4f___Crnl_L.Mold 6894.JPG,plant_unhealthy,train,104
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\d6e6897a-5083-4914-9903-804c5684a956___GHLB2 Leaf 102.JPG,plant_unhealthy,train,57
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\d8d99dae-78a8-46f4-b7ad-600e0685d592___GCREC_Bact.Sp 6136.JPG,plant_unhealthy,train,111
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\da45101e-9448-4e0c-a735-91c558e60c8f___RS_Late.B 5290.JPG,plant_unhealthy,train,89
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\dc5fc62b-20c7-441b-bd70-aa24790302eb___RS_Erly.B 9510.JPG,plant_unhealthy,train,105
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\dc6eeebe-ebc4-406c-b5df-f4861f491db8___RS_Erly.B 9615.JPG,plant_unhealthy,train,57
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\dc865b07-0701-4ddd-be52-cc75f80d0ada___UF.GRC_BS_Lab Leaf 0683.JPG,plant_unhealthy,train,60
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\dda45973-b7a1-4080-93a2-bd7cd3e3026f___RS_Erly.B 8407.JPG,plant_unhealthy,train,96
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\de8d6c32-2b7c-4c2c-a974-9c1c9c30486e___RS_Erly.B 9560.JPG,plant_unhealthy,train,88
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\dfd261ab-30ad-456c-93b3-874a4ebaeaaf___RS_Erly.B 8451.JPG,plant_unhealthy,train,60
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\e2eed3af-be31-4557-b75f-e450ce639046___Matt.S_CG 1605.JPG,plant_unhealthy,train,42
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\e4dad7d3-b043-4dc9-9b41-0df12c1a6823___GCREC_Bact.Sp 5822.JPG,plant_unhealthy,train,32
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\ef588b6e-ce90-4648-b1a4-990dc7dca22d___UF.GRC_BS_Lab Leaf 9288.JPG,plant_unhealthy,train,61
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\f5d65946-2c64-4de0-8769-ec32c6d8ee0c___GCREC_Bact.Sp 6168.JPG,plant_unhealthy,train,70
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\f6ddeb19-8aa3-40f5-8b60-b2f404f13407___RS_Erly.B 7705.JPG,plant_unhealthy,train,98
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\f86cfe1b-5f7f-4f93-b54b-1f39d1c1e323___GHLB2 Leaf 8625.JPG,plant_unhealthy,train,100
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\fae75392-41a3-4363-b073-32f20bc1cc68___Keller.St_CG 1999.JPG,plant_unhealthy,train,33
+c:\Users\msi\Red_FEst\plant_dataset\train\plant_unhealthy\fb6bea39-f361-457c-b73e-fe3b2dbe6259___Matt.S_CG 2786.JPG,plant_unhealthy,train,81
+c:\Users\msi\Red_FEst\plant_dataset\train\not_plant\bucket_not_plant_0cm.webp,not_plant,train,107
+c:\Users\msi\Red_FEst\plant_dataset\train\not_plant\button_not_plant_0cm.jpg,not_plant,train,86
+c:\Users\msi\Red_FEst\plant_dataset\train\not_plant\chair_not_plant_0cm.jpg,not_plant,train,109
+c:\Users\msi\Red_FEst\plant_dataset\train\not_plant\ladybug_not_plant_0cm.jpg,not_plant,train,118
+c:\Users\msi\Red_FEst\plant_dataset\train\not_plant\mirror_not_plant_0cm.webp,not_plant,train,120
+c:\Users\msi\Red_FEst\plant_dataset\train\not_plant\rolling_pin_not_plant_0cm.jpg,not_plant,train,80
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_healthy\11fe6fbc-a1a9-4cc4-ba85-a6864a4e9bae___GH_HL Leaf 280.JPG,plant_healthy,val,34
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_healthy\13053341-b112-411c-bc76-8cadbcb4eded___GH_HL Leaf 223.JPG,plant_healthy,val,39
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_healthy\4b9bc37a-a9af-4e3f-a4e4-1e6cfb79c673___RS_HL 0262.JPG,plant_healthy,val,115
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_healthy\532a6e3c-5dd5-4adf-9bc0-c13551dae536___GH_HL Leaf 354.JPG,plant_healthy,val,57
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_healthy\6900666d-da67-433d-a8bd-5a131c7ea4a9___GH_HL Leaf 467.JPG,plant_healthy,val,119
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_healthy\84991306-21f6-41fb-a723-0c7ba1dac9d3___GH_HL Leaf 199.JPG,plant_healthy,val,45
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_healthy\b632d565-2883-4d01-a994-2068433bac08___RS_HL 9843.JPG,plant_healthy,val,58
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_healthy\bad3b814-de59-4c37-8f47-00ed153f7e4f___RS_HL 0214.JPG,plant_healthy,val,50
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_healthy\c4238856-a924-4621-a4eb-3f34668aa23c___RS_HL 0592.JPG,plant_healthy,val,101
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_healthy\eacb7fe2-5c0a-4058-a7d7-a2270faee988___RS_HL 9654.JPG,plant_healthy,val,30
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\01527fac-41e4-484c-af41-1ed7bc3b5ce6___RS_Late.B 6134.JPG,plant_unhealthy,val,31
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\10bdda57-bfe5-4403-a4c6-a1211d4f348e___GHLB_PS Leaf 20 Day 8.jpg,plant_unhealthy,val,35
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\1dbd5efc-4fec-40a2-aca2-d257a7ad823b___Matt.S_CG 2598.JPG,plant_unhealthy,val,32
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\26088b3b-58c2-4037-90e3-8c8d8c4cf441___Crnl_L.Mold 9119.JPG,plant_unhealthy,val,91
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\27616ae1-2960-4aeb-a03b-91607439eaa0___RS_Late.B 5983.JPG,plant_unhealthy,val,95
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\2c47b891-3c97-48f1-a2cc-5aa53d3a1148___GHLB2 Leaf 9011.JPG,plant_unhealthy,val,87
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\31ebf507-8a9d-42ac-89fa-54cbc98cc1d9___GCREC_Bact.Sp 6388.JPG,plant_unhealthy,val,38
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\349f68f1-a57d-43bf-9422-3f6e905a9539___UF.GRC_BS_Lab Leaf 8692.JPG,plant_unhealthy,val,42
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\3d9a4538-4797-45fe-8cff-104237e19368___RS_Erly.B 7729.JPG,plant_unhealthy,val,49
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\452bc068-6862-4715-a724-a4057d4155ee___Crnl_L.Mold 6866.JPG,plant_unhealthy,val,108
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\46b49cf8-b3e6-47f2-8bf1-f9cc6f53f958___GCREC_Bact.Sp 3473.JPG,plant_unhealthy,val,53
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\51d765e5-9c9d-40b9-8a71-32cf12ac2262___GCREC_Bact.Sp 3559.JPG,plant_unhealthy,val,66
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\526959cc-f05a-46fb-8625-ed60fdac30cd___GCREC_Bact.Sp 3032.JPG,plant_unhealthy,val,111
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\5595a78c-8a56-4ee2-b085-a96c6fb67846___RS_Erly.B 7716.JPG,plant_unhealthy,val,55
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\59cbcb57-16e3-4e35-a1d6-8672678c9d8d___RS_Erly.B 6489.JPG,plant_unhealthy,val,97
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\6b6edf2a-0cb5-4a38-a16f-dc8faf705c46___Crnl_L.Mold 9032.JPG,plant_unhealthy,val,54
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\7bab9b53-f608-4f3f-8325-d730d846b3d9___RS_Erly.B 7695.JPG,plant_unhealthy,val,114
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\8b30edb3-09a7-4419-a06a-9dddb5194a38___Crnl_L.Mold 8847.JPG,plant_unhealthy,val,90
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\8e15b503-716a-4aa4-83f8-62c7d9aae2f1___Matt.S_CG 7655.JPG,plant_unhealthy,val,34
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\941b0412-6299-4aff-bda4-e7d89f51af91___JR_Sept.L.S 2628.JPG,plant_unhealthy,val,120
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\980d0ee6-693a-44ae-b38d-eef2cc4aa9da___Matt.S_CG 7385.JPG,plant_unhealthy,val,51
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\9b4d930b-ac3a-41c1-a8e8-8930280b5ad5___Crnl_L.Mold 8660.JPG,plant_unhealthy,val,116
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\9fb7c429-8238-4032-9a4e-e5ac25742f88___Crnl_L.Mold 6867.JPG,plant_unhealthy,val,44
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\af7fb316-b07c-4ff1-a724-72149184defb___Matt.S_CG 5981.JPG,plant_unhealthy,val,95
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\ba03e414-81d2-44ec-ab16-bf279266d531___Matt.S_CG 2697.JPG,plant_unhealthy,val,89
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\cbff5638-51d0-4eae-90a2-9ce6e00acf9b___RS_Erly.B 9456.JPG,plant_unhealthy,val,113
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\d08bee32-4f76-4a08-9158-69fe55da2ddb___GHLB Leaf 23 Day 12.JPG,plant_unhealthy,val,99
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\dfa62ef3-e71a-49c9-b3fc-6b1c72fa3408___GCREC_Bact.Sp 3176.JPG,plant_unhealthy,val,40
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\f1aca7db-32e7-4cbe-a9ca-0b185fd1a1a9___GHLB2 Leaf 89.1.JPG,plant_unhealthy,val,52
+c:\Users\msi\Red_FEst\plant_dataset\val\plant_unhealthy\fb2aaea3-f1cd-49c3-aa02-b640c62e59f5___RS_Erly.B 9389.JPG,plant_unhealthy,val,49
+c:\Users\msi\Red_FEst\plant_dataset\val\not_plant\cheetah_not_plant_0cm.jpg,not_plant,val,81
+c:\Users\msi\Red_FEst\plant_dataset\val\not_plant\cube_not_plant_0cm.webp,not_plant,val,74
+c:\Users\msi\Red_FEst\plant_dataset\val\not_plant\fish_not_plant_0cm.jpg,not_plant,val,106
+c:\Users\msi\Red_FEst\plant_dataset\val\not_plant\hammer_not_plant_0cm.webp,not_plant,val,114
+c:\Users\msi\Red_FEst\plant_dataset\val\not_plant\key_not_plant_0cm.jpg,not_plant,val,74
+c:\Users\msi\Red_FEst\plant_dataset\val\not_plant\scissors_not_plant_0cm.webp,not_plant,val,86
+c:\Users\msi\Red_FEst\plant_dataset\val\not_plant\squirrel_not_plant_0cm.jpg,not_plant,val,62
+c:\Users\msi\Red_FEst\plant_dataset\val\not_plant\watermelon_not_plant_0cm.webp,not_plant,val,58
+c:\Users\msi\Red_FEst\plant_dataset\val\not_plant\water_can_not_plant_0cm.jpg,not_plant,val,36
